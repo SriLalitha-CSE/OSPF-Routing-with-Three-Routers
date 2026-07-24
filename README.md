@@ -36,6 +36,7 @@ This lab showcases how routers communicate within the same OSPF Area (Area 0) to
 - Copper Straight-Through Cables
 
 Each router connects to:
+
 - One Local Area Network (LAN)
 - Two neighboring routers through serial links
 
